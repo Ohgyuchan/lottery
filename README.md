@@ -1,1 +1,1 @@
-# lottery(toy proje)
+# lottery(toy project)
