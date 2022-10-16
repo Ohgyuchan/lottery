@@ -1,0 +1,1 @@
+# lottery(toy proje)
